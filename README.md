@@ -5,14 +5,14 @@
  ![image](https://github.com/AshwiniSuryakar09/Fraud-Transaction-Detection/blob/main/1-46.jpg)
 
 
- > ### Click the following link to check out the video presentation and the colab file.
+ > ### Click the following link to check out the colab file.
 - [Colab](https://colab.research.google.com/drive/1MkrNApgnWiFfaofbsFlRV9c0PLoxQqUK?usp=sharing)
 
 
-> ### Project Summary :-
+> ### Project Summary:-
 The project involves developing a predictive model to classify transactions as fraudulent or legitimate. The model is trained on a dataset of historical transactions, which includes features such as transaction
 amount, location, time of day, and type of transaction.
-This project typically involves developing a system that can identify and flag suspicious transactions in real-time, using machine learning and data analytics techniques. The goal is to prevent financial
+This project typically involves developing a system that can identify and flag suspicious transactions in real time, using machine learning and data analytics techniques. The goal is to prevent financial
 losses due to fraudulent activities, such as credit card fraud or identity theft.
 
 
