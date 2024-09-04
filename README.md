@@ -7,7 +7,7 @@
 
  > ### Click the following link to check out the video presentation and the colab file.
 - [Colab](https://colab.research.google.com/drive/1MkrNApgnWiFfaofbsFlRV9c0PLoxQqUK?usp=sharing)
-- [Video]()
+
 
 > ### Project Summary :-
 The project involves developing a predictive model to classify transactions as fraudulent or legitimate. The model is trained on a dataset of historical transactions, which includes features such as transaction
